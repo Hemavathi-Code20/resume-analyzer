@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2-binary
+python-docx
+pdfminer.six
+PyMuPDF
+spacy
+nltk
+Werkzeug
+Flask-WTF
